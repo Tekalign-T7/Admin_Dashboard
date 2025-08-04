@@ -6,7 +6,6 @@
 body{
     margin-left:100px;
 }
-
 .grid-container{
     display:grid;
     grid-template-columns:180px 900px;
@@ -46,7 +45,6 @@ input{
     width:50px;
     border-radius:50px;
 }
-
 .dashboard{
     padding:5px;
     font-size:20px;
